@@ -1,0 +1,36 @@
+{
+  "name": "syc-pages",
+  "version": "0.1.0",
+  "description": "Awesome node module",
+  "keywords": [
+    "syc-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/syc/syc-pages#readme",
+  "bugs": {
+    "url": "https://github.com/syc/syc-pages/issues"
+  },
+  "license": "MIT",
+  "author": "sycyunfc <15013036783@163.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syc/syc-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
