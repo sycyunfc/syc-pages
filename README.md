@@ -24,8 +24,8 @@ $ yarn add syc-pages
 
 ```javascript
 const sycPages = require('syc-pages')
-const result = sycPages('zce')
-// result => 'zce@zce.me'
+const result = sycPages('syc')
+// result => 'syc@syc.me'
 ```
 
 ## API
@@ -45,7 +45,7 @@ const result = sycPages('zce')
 
 - Type: `string`
 - Details: host string
-- Default: `'zce.me'`
+- Default: `'syc.me'`
 
 ## Contributing
 

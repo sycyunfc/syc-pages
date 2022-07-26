@@ -3,8 +3,7 @@
   "version": "0.1.0",
   "description": "Awesome node module",
   "keywords": [
-    "syc-pages",
-    "zce"
+    "syc-pages"
   ],
   "homepage": "https://github.com/syc/syc-pages#readme",
   "bugs": {
